@@ -1,0 +1,28 @@
+h1{
+    font-size: 46px;
+    background-color: black;
+    color: white;
+    padding: 20px;;
+}
+
+#blue {
+    color: turquoise;
+}
+
+h2{
+    text-align: center;
+    background-color: purple;
+    font-style: italic;
+    color: white;
+    padding: 20px;
+    margin-top: -.8em;
+}
+
+h3{
+    text-align: right;
+    background-color: lightblue;
+    color: blue;
+    text-decoration: underline;
+    padding: 10px;
+    margin-top: -0.5em
+}
